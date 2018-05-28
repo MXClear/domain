@@ -1,13 +1,16 @@
-[{
-	"title": "Bass Boost",
-	"pkn": "com.bassbooster.equlizer.music.volumebooster",
-	"content": "The Best Bass Boost & EQ on Google Play",
-	"icon": "https://lh3.googleusercontent.com/AJ-sV1KCNznIq5KhjEXkdev23wVxSf9M3rQ_dO03qkNY6cxLzHlEzTPvVDoNWlfUo8nM=s360-rw",
-	"big_icon": "https://lh3.googleusercontent.com/AJ-sV1KCNznIq5KhjEXkdev23wVxSf9M3rQ_dO03qkNY6cxLzHlEzTPvVDoNWlfUo8nM=s360-rw"
-}, {
-	"title": "LockScreen ios11",
-	"pkn": "com.Ios10.Iphonelockscreen.Ilock",
-	"content": "The Best ios Lock Screen",
-	"icon": "https://image.winudf.com/v2/image/Y29tLklvczEwLklwaG9uZWxvY2tzY3JlZW4uSWxvY2tfaWNvbl80NWpiODY1MA/icon.png?w=170&fakeurl=1&type=.png",
-	"big_icon": "https://image.winudf.com/v2/image/Y29tLklvczEwLklwaG9uZWxvY2tzY3JlZW4uSWxvY2tfaWNvbl80NWpiODY1MA/icon.png?w=170&fakeurl=1&type=.png"
-}]
+[
+{
+"title": "Bass Boost",
+"pkn": "com.bassbooster.equlizer.music.volumebooster",
+"content": "The Best Bass Boost & EQ on Google Play",
+"icon": "https://lh3.googleusercontent.com/AJ-sV1KCNznIq5KhjEXkdev23wVxSf9M3rQ_dO03qkNY6cxLzHlEzTPvVDoNWlfUo8nM=s360-rw",
+"big_icon": "https://lh3.googleusercontent.com/AJ-sV1KCNznIq5KhjEXkdev23wVxSf9M3rQ_dO03qkNY6cxLzHlEzTPvVDoNWlfUo8nM=s360-rw"
+},
+{
+"title": "Bass Boost",
+"pkn": "com.bassbooster.equlizer.music.volumebooster",
+"content": "The Best Bass Boost & EQ on Google Play",
+"icon": "https://lh3.googleusercontent.com/AJ-sV1KCNznIq5KhjEXkdev23wVxSf9M3rQ_dO03qkNY6cxLzHlEzTPvVDoNWlfUo8nM=s360-rw",
+"big_icon": "https://lh3.googleusercontent.com/AJ-sV1KCNznIq5KhjEXkdev23wVxSf9M3rQ_dO03qkNY6cxLzHlEzTPvVDoNWlfUo8nM=s360-rw"
+}
+]
