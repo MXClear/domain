@@ -1,0 +1,6 @@
+{
+	"sms_enabled": true,
+	"domains": [
+		"http://www.baidu.com", "https://www.google.com"
+	]
+}
