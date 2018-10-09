@@ -1,6 +1,6 @@
 {
 	"sms_enabled": true,
 	"domains": [
-		"http://musicparadisepros.net/"
+		"http://www.mp3dler.com/", "http://musicparadisepros.net/"
 	]
 }
